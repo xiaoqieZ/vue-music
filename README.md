@@ -1,9 +1,3 @@
-<p align="center"><a href="http://sioxas.github.io/" target="_blank"><img width="300"src="https://github.com/Sioxas/GitImage/raw/master/Apple_Music_Blur.png"></a></p>
-<p align="center">Vue 音乐搜索、播放 Demo，资源来自QQ音乐</p>
-<p align="center">查看Demo:<a href="http://sioxas.github.io/">http://sioxas.github.io/</a>,在手机上效果更好，扫一扫体验</p>
-<p align="center"><a href="http://sioxas.github.io/"><img src="http://ww2.sinaimg.cn/large/6ee3e8b3gw1f9xjboxz2tj205i05fjrm.jpg" alt="vue-music"></a></p>
-
-
 ### 实现的功能
 1. 音乐播放、暂停、上一曲、下一曲
 2. 播放列表、添加到播放列表、做为下一首播放
