@@ -15,37 +15,5 @@
 *   我喜欢
 *   下载
 
-## Build Setup
-
-``` bash
-# 下载或克隆下来，然后安装依赖
-npm install
-
-# 开发预览
-npm run dev
-
-# 打包发布，生成的文件在dist文件夹中
-npm run build
-```
-
-# 截图
 
 
-### 推荐
-![推荐](https://github.com/xiaoqieZ/vue-music/raw/master/screenshot/IMG_2249.PNG)
-### 排行榜
-![排行榜](https://github.com/xiaoqieZ/vue-music/raw/master/screenshot/IMG_1807.PNG)
-![榜单](https://github.com/xiaoqieZ/vue-music/raw/master/screenshot/IMG_1800.PNG)
-### 搜索
-![热门搜索和历史记录](https://github.com/xiaoqieZ/vue-music/raw/master/screenshot/IMG_1808.PNG)
-![搜索结果](https://github.com/xiaoqieZ/vue-music/raw/master/screenshot/IMG_1351.PNG)
-![搜索结果](https://github.com/xiaoqieZ/vue-music/raw/master/screenshot/IMG_1591.PNG)
-### 播放页面
-![播放页面](https://github.com/xiaoqieZ/vue-music/raw/master/screenshot/IMG_1352.PNG)
-### 专辑页面
-![专辑页面](https://github.com/xiaoqieZ/vue-music/raw/master/screenshot/IMG_1587.PNG)
-### 歌手页面
-![歌手页面](https://github.com/xiaoqieZ/vue-music/raw/master/screenshot/IMG_1588.PNG)
-![歌手页面](https://github.com/xiaoqieZ/vue-music/raw/master/screenshot/IMG_1589.PNG)
-### 播放列表
-![播放列表](https://github.com/xiaoqieZ/vue-music/raw/master/screenshot/IMG_1590.PNG)
