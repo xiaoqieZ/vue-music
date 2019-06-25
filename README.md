@@ -32,12 +32,12 @@ npm run build
 
 
 ### 推荐
-![推荐](https://github.com/xiaoqieZ/raw/master/screenshot/IMG_2249.PNG)
+![推荐](https://github.com/xiaoqieZ/GitImage/raw/master/screenshot/IMG_2249.PNG)
 ### 排行榜
-![排行榜](https://github.com/xiaoqieZ/raw/master/screenshot/IMG_1807.PNG)
+![排行榜](https://github.com/xiaoqieZ/GitImage/raw/master/screenshot/IMG_1807.PNG)
 ![榜单](https://github.com/Sioxas/raw/master/screenshot/IMG_1800.PNG)
 ### 搜索
-![热门搜索和历史记录](https://github.com/xiaoqieZ/vue-music/raw/master/screenshot/IMG_1808.PNG)
+![热门搜索和历史记录](https://github.com/xiaoqieZ/GitImage/raw/master/screenshot/IMG_1808.PNG)
 ![搜索结果](https://github.com/xiaoqieZ/vue-music/raw/master/screenshot/IMG_1351.PNG)
 ![搜索结果](https://github.com/Sioxas/GitImage/raw/master/screenshot/IMG_1591.PNG)
 ### 播放页面
